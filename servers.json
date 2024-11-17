@@ -50,4 +50,8 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
+},
+{
+  "name": "ddietlin",
+  "address": "https://anisette-v3-server-7ky6.onrender.com"
 }
